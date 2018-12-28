@@ -1,0 +1,25 @@
+{
+  "name": "botdicsord",
+  "version": "0.0.1",
+  "description": "yalox",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^2.2.0",
+    "canvas-constructor": "^2.0.1",
+    "cli": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "download": "^7.1.0",
+    "fs-extra": "^7.0.1",
+    "https": "^1.0.0",
+    "node-gyp": "^3.8.0",
+    "node-pre-gyp": "^0.12.0",
+    "sqlite3": "^4.0.4",
+    "tmi.js": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kotya",
+  "license": "ISC"
+}
